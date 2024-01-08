@@ -1,0 +1,69 @@
+# ninja log v5
+0	106	1704705928454889720	build.ninja	36db16ac8e1b04b1
+0	43	1704705928510889610	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	43	1704705928510889610	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	43	1704705928510889610	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	43	1704705928510889610	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+44	73	1704705928542889547	CMakeFiles/Horizontal_buttons.dir/Horizontal_buttons_autogen/mocs_compilation.cpp.o	599f15acd30a5c0b
+1	15	1704705996838755590	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+1	15	1704705996838755590	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+1	15	1704705996838755590	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+1	15	1704705996838755590	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	22	1704706021962706721	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	22	1704706021962706721	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	22	1704706021962706721	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	22	1704706021962706721	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	14	1704706056066640710	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	14	1704706056066640710	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	14	1704706056066640710	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	14	1704706056066640710	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	15	1704706085746583549	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	15	1704706085746583549	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+0	15	1704706085746583549	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+0	15	1704706085746583549	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+1	16	1704706133922491298	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+1	16	1704706133922491298	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+1	16	1704706133922491298	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+1	16	1704706133922491298	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+16	8635	1704706142538474865	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+8639	9434	1704706143334473348	Horizontal_buttons	9785dcaee5e95401
+5	19	1704706195810373670	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706195810373670	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	19	1704706195810373670	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706195810373670	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	19	1704706212262342553	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706212262342553	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	19	1704706212262342553	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706212262342553	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+20	8560	1704706220798326433	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+8560	9102	1704706221338325413	Horizontal_buttons	9785dcaee5e95401
+5	19	1704706396277998223	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706396277998223	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	19	1704706396277998223	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706396277998223	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+20	8873	1704706405129981809	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+8873	9436	1704706405689980771	Horizontal_buttons	9785dcaee5e95401
+5	21	1704706476829849282	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	21	1704706476829849282	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	21	1704706476829849282	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	21	1704706476829849282	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+21	8595	1704706485401833486	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+8595	9177	1704706485981832417	Horizontal_buttons	9785dcaee5e95401
+8	24	1704706580057237360	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+8	24	1704706580057237360	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+8	24	1704706580057237360	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+8	24	1704706580057237360	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+25	9198	1704706589229550717	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+9199	9767	1704706589793569820	Horizontal_buttons	9785dcaee5e95401
+5	21	1704706675128250086	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	21	1704706675128250086	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	21	1704706675128250086	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	21	1704706675128250086	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+21	8846	1704706683952504885	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+8846	9394	1704706684496520459	Horizontal_buttons	9785dcaee5e95401
+5	19	1704706828076157727	Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706828076157727	Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+5	19	1704706828076157727	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/timestamp	96bf746aa66d21a
+5	19	1704706828076157727	/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/Horizontal_buttons_autogen/mocs_compilation.cpp	96bf746aa66d21a
+20	9034	1704706837088357483	CMakeFiles/Horizontal_buttons.dir/main.cpp.o	b1e9ba168e1a3a63
+9034	9574	1704706837624369265	Horizontal_buttons	9785dcaee5e95401

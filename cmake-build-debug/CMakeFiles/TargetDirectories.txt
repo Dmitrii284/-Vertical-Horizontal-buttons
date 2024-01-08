@@ -1,0 +1,5 @@
+/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/CMakeFiles/Horizontal_buttons.dir
+/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/CMakeFiles/Horizontal_buttons_autogen_timestamp_deps.dir
+/home/dmitriy/CLionProjects/Task QT _Widget - Vertical/Horizontal buttons/cmake-build-debug/CMakeFiles/Horizontal_buttons_autogen.dir
